@@ -1,0 +1,7 @@
+include ':mapsforge-map-reader'
+include ':mapsforge-map-android'
+include ':mapsforge-map'
+include ':mapsforge-map-android-extras'
+include ':mapsforge-map-writer'
+include ':mapsforge-core'
+include ':mapsforge-map-awt'
