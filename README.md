@@ -1,4 +1,9 @@
-[![Build Status](https://travis-ci.org/mapsforge/mapsforge.svg?branch=dev)](https://travis-ci.org/mapsforge/mapsforge)
+-----------------------------
+
+This mapsforge Version is used from the calimoto gmbh in the commercial android App calimoto (https://play.google.com/store/apps/details?id=com.calimoto.calimoto). It has only slightly been adapted and it´s based on Mapsforge 0.6.1 (Dev-Branch, 20.04.2016). The original source Code is available here: https://github.com/mapsforge/mapsforge.
+
+-----------------------------
+
 
 The mapsforge project provides free and open software for the rendering of maps based on OpenStreetMap data. Currently, we offer a library for ad-hoc map rendering on Android devices and in Java stand-alone applications.
 
